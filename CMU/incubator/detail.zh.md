@@ -1,3 +1,5 @@
+![img]("/token_assets/CMU/images/sample.zh.png")
+
 人们说，区块链的两大落地应用是发币和开会。 我们将他们联系在了一起！
 
 这个 Dapp 的灵感来自 四方 和 加密世界。

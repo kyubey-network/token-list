@@ -1,3 +1,5 @@
+![img]("/token_assets/CMU/images/sample.en.png")
+
 People says, the most two significant application of blockchain are initial token offer && meetup. We bring them together!
 
 This dapp has been inspired by Foursquare and Cryptocountry。
