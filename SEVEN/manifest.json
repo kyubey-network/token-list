@@ -1,0 +1,19 @@
+{
+  "Id": "SEVEN",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "xxxsevensxxx",
+      "pricing": "xxxsevensxxx"
+    },
+    "Website": "https://www.se7ens.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

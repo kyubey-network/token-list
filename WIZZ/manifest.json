@@ -1,0 +1,19 @@
+{
+  "Id": "WIZZ",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "wizznetwork1",
+      "pricing": "wizznetwork1"
+    },
+    "Website": "https://wizz.network/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

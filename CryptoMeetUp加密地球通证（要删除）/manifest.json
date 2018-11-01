@@ -1,0 +1,19 @@
+{
+  "Id": "CMT",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": null,
+      "pricing": null
+    },
+    "Website": null,
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": false,
+  "Contract_Exchange": false
+}

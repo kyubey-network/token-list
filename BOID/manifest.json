@@ -1,0 +1,19 @@
+{
+  "Id": "BOID",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "boidcomtoken",
+      "pricing": "boidcomtoken"
+    },
+    "Website": "https://www.boid.com/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

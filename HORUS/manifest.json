@@ -1,0 +1,19 @@
+{
+  "Id": "HORUS",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "horustokenio",
+      "pricing": "horustokenio"
+    },
+    "Website": "https://horuspay.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

@@ -1,0 +1,19 @@
+{
+  "Id": "POOR",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "poormantoken",
+      "pricing": "poormantoken"
+    },
+    "Website": "https://eostoolkit.io/airgrab",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

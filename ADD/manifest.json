@@ -1,0 +1,19 @@
+{
+  "Id": "ADD",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosadddddddd",
+      "pricing": "eosadddddddd"
+    },
+    "Website": "http://eosadd.com/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

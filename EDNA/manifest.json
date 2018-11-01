@@ -1,0 +1,19 @@
+{
+  "Id": "EDNA",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "ednazztokens",
+      "pricing": "ednazztokens"
+    },
+    "Website": "https://edna.life/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

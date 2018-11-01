@@ -1,0 +1,19 @@
+{
+  "Id": "ROY",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosroyaleroy",
+      "pricing": "eosroyaleroy"
+    },
+    "Website": "https://roulette.eosroyale.com/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

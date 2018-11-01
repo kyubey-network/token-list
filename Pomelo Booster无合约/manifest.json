@@ -1,0 +1,19 @@
+{
+  "Id": "PML",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": "bancor",
+    "Contract": {
+      "transfer": null,
+      "pricing": null
+    },
+    "Website": null,
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

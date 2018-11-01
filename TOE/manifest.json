@@ -1,0 +1,19 @@
+{
+  "Id": "TOE",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "talkoneos123",
+      "pricing": "talkoneos123"
+    },
+    "Website": "http://talkoneos.com/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

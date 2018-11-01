@@ -1,0 +1,19 @@
+{
+  "Id": "BTN",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosbuttonbtn",
+      "pricing": "eosbuttonbtn"
+    },
+    "Website": "https://eosbutton.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

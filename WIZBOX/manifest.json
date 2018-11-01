@@ -1,0 +1,19 @@
+{
+  "Id": "WIZBOX",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "wizboxairdro",
+      "pricing": "wizboxairdro"
+    },
+    "Website": "https://wizards.one/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

@@ -1,0 +1,19 @@
+{
+  "Id": "MEETONE",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosiomeetone",
+      "pricing": "eosiomeetone"
+    },
+    "Website": "https://meet.one/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

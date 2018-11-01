@@ -1,0 +1,19 @@
+{
+  "Id": "WECASH",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "weosservices",
+      "pricing": "weosservices"
+    },
+    "Website": "https://weosapp.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

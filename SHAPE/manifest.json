@@ -1,0 +1,19 @@
+{
+  "Id": "SHAPE",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "gmaslaunches",
+      "pricing": "gmaslaunches"
+    },
+    "Website": "https://www.shapecoin.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

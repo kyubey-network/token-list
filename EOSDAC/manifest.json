@@ -1,0 +1,19 @@
+{
+  "Id": "EOSDAC",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosdactokens",
+      "pricing": "eosdactokens"
+    },
+    "Website": "https://eosdac.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

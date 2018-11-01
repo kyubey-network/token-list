@@ -1,0 +1,19 @@
+{
+  "Id": "CAN",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eoscancancan",
+      "pricing": "eoscancancan"
+    },
+    "Website": "https://cannoncapital.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

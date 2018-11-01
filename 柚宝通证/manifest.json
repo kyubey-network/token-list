@@ -1,0 +1,19 @@
+{
+  "Id": "YOU",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": "bancor",
+    "Contract": {
+      "transfer": "youbaoyoubao",
+      "pricing": "youbaoyoubao"
+    },
+    "Website": null,
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

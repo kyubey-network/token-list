@@ -1,0 +1,19 @@
+{
+  "Id": "EVR",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosvrtokenss",
+      "pricing": "eosvrtokenss"
+    },
+    "Website": null,
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

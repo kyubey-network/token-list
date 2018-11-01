@@ -1,0 +1,19 @@
+{
+  "Id": "PXL",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "dacincubator",
+      "pricing": "dacincubator"
+    },
+    "Website": "https://eospixels.photos/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

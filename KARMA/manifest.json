@@ -1,0 +1,19 @@
+{
+  "Id": "KARMA",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "therealkarma",
+      "pricing": "therealkarma"
+    },
+    "Website": "https://www.karmaapp.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

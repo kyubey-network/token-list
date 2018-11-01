@@ -1,0 +1,19 @@
+{
+  "Id": "BLACK",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosblackteam",
+      "pricing": "eosblackteam"
+    },
+    "Website": "https://eosblack.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

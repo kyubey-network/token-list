@@ -1,0 +1,19 @@
+{
+  "Id": "TGC",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eostgctoken1",
+      "pricing": "eostgctoken1"
+    },
+    "Website": "https://eostiger.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": false
+}

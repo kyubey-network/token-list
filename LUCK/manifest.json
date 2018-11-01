@@ -1,0 +1,19 @@
+{
+  "Id": "LUCK",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosluckchain",
+      "pricing": "eosluckchain"
+    },
+    "Website": "https://luckchain.one",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

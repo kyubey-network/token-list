@@ -1,0 +1,19 @@
+{
+  "Id": "ITECOIN",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "itecointoken",
+      "pricing": "itecointoken"
+    },
+    "Website": "https://dice.ite.zone/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

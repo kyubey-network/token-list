@@ -1,0 +1,19 @@
+{
+  "Id": "EOX",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eoxeoxeoxeox",
+      "pricing": "eoxeoxeoxeox"
+    },
+    "Website": "https://www.eoxlab.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

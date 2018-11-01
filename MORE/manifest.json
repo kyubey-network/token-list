@@ -1,0 +1,19 @@
+{
+  "Id": "MORE",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "eosiomoreone",
+      "pricing": "eosiomoreone"
+    },
+    "Website": "http://more.one/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}

@@ -1,0 +1,19 @@
+{
+  "Id": "FC",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "fcfundadmins",
+      "pricing": "fcfundadmins"
+    },
+    "Website": "https://eosall.in/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": false
+}

@@ -1,0 +1,19 @@
+{
+  "Id": "OCT",
+  "Owners": "root",
+  "Priority": 0,
+  "Basic": {
+    "Protocol": null,
+    "Contract": {
+      "transfer": "octtothemoon",
+      "pricing": "octtothemoon"
+    },
+    "Website": "https://oraclechain.io/",
+    "Github": null,
+    "Email": null,
+    "Tg": ""
+  },
+  "Incubation": false,
+  "Dex": true,
+  "Contract_Exchange": true
+}
