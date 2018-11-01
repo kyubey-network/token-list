@@ -1,10 +1,10 @@
 [
     {
         "title": "测试1",
-        "content": "test1.zh-CN.md"
+        "content": "test1.zh.md"
     },
     {
         "title": "测试2",
-        "content": "test2.zh-CN.md"
+        "content": "test2.zh.md"
     }
 ]
