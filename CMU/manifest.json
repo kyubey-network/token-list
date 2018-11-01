@@ -1,0 +1,19 @@
+{
+    "id": "CMU",
+    "owners": ["root"],
+    "priority": 0,
+    "basic": {
+        "protocol": "daibo",
+        "contract": {
+            "transfer": "dacincubator",
+            "pricing": "dacincubator"
+        },
+        "website": "http://www.cryptomeetup.io/#/",
+        "github": "",
+        "email": "",
+        "tg": ""
+    },
+    "incubation": true,
+    "dex": true,
+    "contract_exchange": true
+}

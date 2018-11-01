@@ -1,0 +1,1 @@
+Cryptomeetup will issue its own token, called “CMU”, based on Kyubey’s protocol. Token holders can share the profit of Cryptomeetup platform and participant in the community’s self-government by staking CMU token. Also, the CMU token is a utility token that players can use CMU to buy game assets.
