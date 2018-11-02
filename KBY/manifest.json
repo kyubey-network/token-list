@@ -1,0 +1,21 @@
+{
+  "id": "KBY",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": "daibo",
+    "contract": {
+      "transfer": "dacincubator",
+      "pricing": "dacincubator"
+    },
+    "website": "https://ibo.kyubey.network",
+    "github": "https://github.com/kyubey-network",
+    "email": null,
+    "tg": null
+  },
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
+}

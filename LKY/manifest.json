@@ -1,0 +1,21 @@
+{
+  "id": "LKY",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "bkyyshayysha",
+      "pricing": "bkyyshayysha"
+    },
+    "website": "https://www.luckywith.me/luckycoin ",
+    "github": "https://github.com/LuckyPlaza/LuckyPlaza",
+    "email": null,
+    "tg": null
+  },
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
+}

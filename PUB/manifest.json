@@ -1,0 +1,21 @@
+{
+  "id": "PUB",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "tokendapppub",
+      "pricing": "tokendapppub"
+    },
+    "website": "https://dapp.pub/tokens/?token=PUB",
+    "github": " github.com/Dappub",
+    "email": null,
+    "tg": null
+  },
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": true
+}

@@ -1,0 +1,21 @@
+{
+  "id": "EOSNTS",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "eosninetiess",
+      "pricing": "eosninetiess"
+    },
+    "website": "https://www.eos90s.io/",
+    "github": null,
+    "email": null,
+    "tg": null
+  },
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
+}

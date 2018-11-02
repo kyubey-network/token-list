@@ -1,0 +1,21 @@
+{
+  "id": "CET",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "eosiochaince",
+      "pricing": "eosiochaince"
+    },
+    "website": "https://chaince.com/",
+    "github": null,
+    "email": null,
+    "tg": null
+  },
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
+}
