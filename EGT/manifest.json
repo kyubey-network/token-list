@@ -1,19 +1,21 @@
 {
-  "Id": "EGT",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "EGT",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "eosiotokener",
       "pricing": "eosiotokener"
     },
-    "Website": null,
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": null,
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

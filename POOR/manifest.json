@@ -1,19 +1,21 @@
 {
-  "Id": "POOR",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "POOR",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "poormantoken",
       "pricing": "poormantoken"
     },
-    "Website": "https://eostoolkit.io/airgrab",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "https://eostoolkit.io/airgrab",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

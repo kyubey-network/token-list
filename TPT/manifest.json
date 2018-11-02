@@ -1,19 +1,21 @@
 {
-  "Id": "TPT",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "TPT",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "tokendapppub",
       "pricing": "tokendapppub"
     },
-    "Website": "https://tpdex.io",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "https://tpdex.io",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": true
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": true
 }

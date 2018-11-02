@@ -1,19 +1,21 @@
 {
-  "Id": "ADD",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "ADD",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "eosadddddddd",
       "pricing": "eosadddddddd"
     },
-    "Website": "http://eosadd.com/",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "http://eosadd.com/",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

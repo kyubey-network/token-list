@@ -1,19 +1,21 @@
 {
-  "Id": "LKY",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "LKY",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "bkyyshayysha",
       "pricing": "bkyyshayysha"
     },
-    "Website": "https://www.luckywith.me/luckycoin ",
-    "Github": "https://github.com/LuckyPlaza/LuckyPlaza",
-    "Email": null,
-    "Tg": ""
+    "website": "https://www.luckywith.me/luckycoin ",
+    "github": "https://github.com/LuckyPlaza/LuckyPlaza",
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

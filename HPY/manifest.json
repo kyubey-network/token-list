@@ -1,19 +1,21 @@
 {
-  "Id": "HPY",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "HPY",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "happyeosslot",
       "pricing": "happyeosslot"
     },
-    "Website": null,
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": null,
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": true
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": true
 }

@@ -1,19 +1,21 @@
 {
-  "Id": "DAB",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "DAB",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "eoscafekorea",
       "pricing": "eoscafekorea"
     },
-    "Website": "http://dabble.cafe/",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "http://dabble.cafe/",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

@@ -1,19 +1,21 @@
 {
-  "Id": "SEVEN",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "SEVEN",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "xxxsevensxxx",
       "pricing": "xxxsevensxxx"
     },
-    "Website": "https://www.se7ens.io/",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "https://www.se7ens.io/",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

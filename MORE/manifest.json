@@ -1,19 +1,21 @@
 {
-  "Id": "MORE",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "MORE",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "eosiomoreone",
       "pricing": "eosiomoreone"
     },
-    "Website": "http://more.one/",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "http://more.one/",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

@@ -1,19 +1,21 @@
 {
-  "Id": "IGC",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "IGC",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "eosindiegame",
       "pricing": "eosindiegame"
     },
-    "Website": "http://eosindiegame.com/#/",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "http://eosindiegame.com/#/",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

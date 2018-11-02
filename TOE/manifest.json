@@ -1,19 +1,21 @@
 {
-  "Id": "TOE",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "TOE",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "talkoneos123",
       "pricing": "talkoneos123"
     },
-    "Website": "http://talkoneos.com/",
-    "Github": null,
-    "Email": null,
-    "Tg": ""
+    "website": "http://talkoneos.com/",
+    "github": null,
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": false
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": false
 }

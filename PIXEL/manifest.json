@@ -1,19 +1,21 @@
 {
-  "Id": "PIXEL",
-  "Owners": "root",
-  "Priority": 0,
-  "Basic": {
-    "Protocol": null,
-    "Contract": {
+  "id": "PIXEL",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
       "transfer": "1pixelmaster",
       "pricing": "1pixelmaster"
     },
-    "Website": "https://pixelmaster.io/?ref=minakokojima",
-    "Github": "https://github.com/eosasia/eospixels/",
-    "Email": null,
-    "Tg": ""
+    "website": "https://pixelmaster.io/?ref=minakokojima",
+    "github": "https://github.com/eosasia/eospixels/",
+    "email": null,
+    "tg": null
   },
-  "Incubation": false,
-  "Dex": true,
-  "Contract_Exchange": true
+  "incubation": false,
+  "dex": true,
+  "contract_exchange": true
 }
