@@ -15,5 +15,5 @@
   },
   "Incubation": false,
   "Dex": true,
-  "Contract_Exchange": true
+  "Contract_Exchange": false
 }
