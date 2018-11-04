@@ -1,19 +1,25 @@
 {
-    "id": "CMU",
-    "owners": ["root"],
-    "priority": 0,
-    "basic": {
-        "protocol": "daibo",
-        "contract": {
-            "transfer": "dacincubator",
-            "pricing": "dacincubator"
-        },
-        "website": "http://www.cryptomeetup.io/#/",
-        "github": "",
-        "email": "",
-        "tg": ""
+  "id": "CMU",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": "daibo",
+    "contract": {
+      "transfer": "dacincubator",
+      "pricing": "dacincubator"
     },
-    "incubation": true,
-    "dex": true,
-    "contract_exchange": true
+    "website": "http://www.cryptomeetup.io/#/",
+    "github": "https://github.com/crypto-meetup-dev/cryptomeetup-contracts/wiki",
+    "email": null,
+    "tg": null,
+    "totalsupply": null
+  },
+  "incubation": {
+    "raisedtarget": 10000.000000000000000000000000,
+    "deadline": "2018-11-10T00:00:00+00:00"
+  },
+  "dex": true,
+  "contract_exchange": false
 }

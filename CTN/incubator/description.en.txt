@@ -1,0 +1,1 @@
+The Crazy town is a much more entertaining game based on EOS, and you can make money happily.

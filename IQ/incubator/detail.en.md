@@ -1,0 +1,1 @@
+Everipedia 團隊計劃建設現代化的、便捷的、去中心化的新版網絡百科網站，而這壹目標隨著區塊鏈技術的發展將會得以實現。正在開發中的新版 Everipedia 將會基於 EOS 網絡，其相比現在的 Everipedia 百科網站將具有社區自治，防止屏蔽，貢獻激勵等獨特功能。商業網絡百科全書 Everipedia 成立於 2014 年，目前尚未采用區塊鏈技術，由 Everipedia.Inc 所有，名字來源於英文單詞 “Everything” 和 “Encyclopedia” 。截至 2017 年 12 月，Everipedia 是最大的英文百科全書，有超過六百萬個條目，包含了 Wikipedia 所有英文條目。Everipedia 對關註度的要求較為寬松，因此其條目的數量會多於 Wikipedia 。
