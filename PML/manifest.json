@@ -14,7 +14,14 @@
     "github": null,
     "email": null,
     "tg": null,
-    "totalsupply": null
+    "total_supply": null,
+    "curve_arguments": [
+      2000.0,
+      10000000.0,
+      0.2
+    ],
+    "price_table": null,
+    "price_scope": null
   },
   "incubation": null,
   "dex": false,

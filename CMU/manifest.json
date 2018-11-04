@@ -14,10 +14,15 @@
     "github": "https://github.com/crypto-meetup-dev/cryptomeetup-contracts/wiki",
     "email": null,
     "tg": null,
-    "totalsupply": null
+    "total_supply": null,
+    "curve_arguments": [
+      0.00000005
+    ],
+    "price_table": null,
+    "price_scope": null
   },
   "incubation": {
-    "raisedtarget": 10000.000000000000000000000000,
+    "goal": 10000.000000000000000000000000,
     "deadline": "2018-11-10T00:00:00+00:00"
   },
   "dex": true,

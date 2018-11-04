@@ -14,7 +14,10 @@
     "github": null,
     "email": null,
     "tg": null,
-    "totalsupply": null
+    "total_supply": null,
+    "curve_arguments": [],
+    "price_table": "exchange_state",
+    "price_scope": "happyeosslot"
   },
   "incubation": null,
   "dex": true,
