@@ -109,13 +109,13 @@ KBY是Kyubey的平臺幣，通過分散式班科協議標準發行。KBY通證�
 
 ###5.2價格函數
 
-![](https://i.loli.net/2018/11/01/5bdb06784b81b.png)
+![](/token_assets/KBY/images/KBY_2.png) 
 
 圖中（供應量-合約餘額,來源[https://kyubey.network/Token/KBY/curve](https://kyubey.network/Token/KBY/curve)）
 
 ###5.3基金分配
 
-![](https://i.loli.net/2018/11/04/5bde414344e47.png)
+![](/token_assets/KBY/images/KBY_3.zh-Hant.png) 
 
 **6.路線圖**
 ---
