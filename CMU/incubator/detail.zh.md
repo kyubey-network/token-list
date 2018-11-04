@@ -1,25 +1,107 @@
-![img]("/token_assets/CMU/images/sample.zh.png")
+**灵感来源：**
+---
+---
+人们说，区块链的两大落地应用是发币和开会。
 
-人们说，区块链的两大落地应用是发币和开会。 我们将他们联系在了一起！
+我们将他们联系在了一起！
 
-这个 Dapp 的灵感来自 四方 和 加密世界。
+这个 Dapp 的灵感来自 “四方” 和 “加密世界”。
 
-四方 是一个提供用户定位的社交网络服务的应用。 用户可以使用移动设备或通过发送消息等方法，在某个实际的地点签到。 每次用户在新地点签到时，他们便可以拿到数字奖品或是数字徽章作为奖励。
+“四方” 是一个提供用户定位的社交网络服务的应用。
 
-加密世界 是以太坊上流行的一款去中心化游戏，在这款游戏中， 人们通过使用以太币购买虚拟国家的 ERC721 资产并牟取利润。 这种游戏方式虽然在单个游戏中很快消亡，但是作为一种游戏模式却经久不衰， 出现在了诸如以太镇、像素大师等诸多去中心化游戏中。
+用户可以使用移动设备或通过发送消息等方法，在某个实际的地点签到。
 
-我们希望能够将二者结合，创作出更加可持续性发展的游戏模式。
+每次用户在新地点签到时，他们便可以拿到数字奖品或是数字徽章作为奖励。
 
-更多Cryptomeetup的信息:
+“加密世界” 是以太坊上流行的一款去中心化游戏，在这款游戏中，
 
-Telegram Group up https://t.me/cryptomeetup_official
+人们通过使用以太币购买虚拟国家的 ERC721 资产并牟取利润。
 
-Discord rd https://discord.gg/Ws3ENJf
+这种游戏方式虽然在单个游戏中很快消亡，但是作为一种游戏模式却经久不衰，
 
-Medium um https://medium.com/@cryptomeetup
+出现在了诸如以太镇、像素大师等诸多去中心化游戏中。
 
-Reddit it https://www.reddit.com/user/cryptomeetup
+**我们希望能够将二者结合，创作出更加可持续性发展的游戏模式。**
 
-Twitter er https://twitter.com/EOSCryptomeetup
+![Cryptomeetup](https://i.loli.net/2018/11/01/5bdb01ed569f0.png)
 
-Instagram am https://www.instagram.com/cryptomeetup.io/
+**币聚简介：**
+---
+---
+**币聚**是一个完全运行在 EOS 区块链、基于前沿技术构建的全球区块链聚会活动网站。币聚用3D可视化的方式提供当前和未来的区块链活动信息，以推动区块链小区发展。用户可以轻松的在币聚找到想要参加的各类活动。币聚将大大推动区块链小区的发展。另外，所有人都可以免费地在币聚上发布活动。
+
+为了避免信息泛滥，币聚将活动的管理也交给小区。任何人都可以通过支付一定 EOS 来成为区域管理员(通证持有者)，即具有一个区域内活动的管理权限。
+
+除了可以在3D的虚拟世界浏览和发布聚会，币聚还内置了通证经济。币聚将要发行平台 通证“CMU”。每枚CMU通证都是基于Quasi-Bancor算法发行的，项目开发团队不预留CMU通证。
+
+CMU通证持有者成为币聚的股东，有权利通过抵押CMU通证来分享币聚平台收益及参与小区自治。除此之外，CMU通证持有也是应用型通证，玩家可以使用CMU去购买游戏资产。
+
+**总之，用户可以通过以下多种方式参与：**
+
+*  作为一个投资者，你可以投资CMU通证及游戏资产；
+*  作为一个游戏玩家，你可以抵押CMU通证来进行投票 及参与平台收益分红；
+*  作为活动组织者，你可以为全球的活动打广告。
+
+
+**如何获得CMU通证？**
+
+*  参与游戏内测来挖矿；
+
+* 在[https://kyubey.network参与众筹](https://kyubey.xn--network-hh3l505xztk9kp/)；
+
+* 在去中心化交易所交易；
+
+*CMU通证将基于Quasi-Bancor算法发行，通证发行（ 众筹）将会以分段团购的形式进行。*
+
+如何出售CMU通证？
+---
+---
+
+为了防止机器人恶意刷单，众筹阶段发售的CMU 通证内置了交易手续费。手续费将采用类似荷式拍卖的方法，随时间线性递减。 CMU 的初始交易手续费为 50%（仅对卖家收取），在首轮团购 CMU 通证发出后，24小时内线性递减至 10%。
+
+*无论是用户间的转账，还是直接与合约进行交易，都将被收取交易手续费。交易手续费将100%移交给币聚社区仲裁委员会（CCAC）节点，用于推动小区发展。
+
+什么是币聚小区仲裁委员会（CCAC）
+
+Cryptomeetup致力于构建一个完全去中心化的自治系统，CMU 通证的持有者通过抵押 CMU 通证来获得币聚小区仲裁委员会的投票权益及收益分红。
+
+用户通过抵押CMU 通证来获得委员会投票权重，推举其他玩家成为币聚小区仲裁委员会成员，得票最多的12个节点将成为币聚小区仲裁委员会委员，排名13 - 36 的节点将成为币聚小区仲裁委员会观察员。
+
+币聚小区仲裁委员会委员将按照得票数，观察员节点按照1/2票数权重获得仲裁委员会收益分配。
+
+**游戏玩法**
+----
+---
+
+币聚里有不同层级的地产，每个层级有不同的机制和玩法，每一块地产的收入都会向它的上层地产缴纳一部分利润。首先，我们将提供三层地产：世界\> 大洲 \> 国家，并将在后期逐步开放城市、地标层级的地产。
+
+币聚于2018年10月26日晚上8：00 pm（UTC+8 ）~ 2018年11月2日晚上8：00 pm（UTC+8）进行了部分功能的Alpha测试，用户可以通过买卖国家Token来挖矿产生CMU通证 。50+ EOS账户参与了测试。
+
+自Alpha测试起，团队快速的修复项目bug, 且不断的优化用户体验。海外用户可以查阅我们的[Medium](https://medium.com/@cryptomeetup/cryptomeetup-community-updates-1-5f8130c0a59f) 文章来获得最新动态.
+
+币聚团队将在未来的测试中逐步释放更多的游戏玩法，如世界倒计时、国家倒计时；增加区块链活动票务及打卡签到等功能。
+
+截止目前的测试中，我们仅提供了国家层级的土地，在未来会根据智能合约余额来逐步释放各大洲。
+
+![](https://i.loli.net/2018/11/04/5bde3b30d59b9.png)
+
+**关注我们**
+---
+---
+**项目正在迭代开发，关注我们的社交媒体来获得最新动态**
+
+**Telegram Group **[https://t.me/cryptomeetup_offcial](https://t.me/cryptomeetup_offcial)
+
+**Discord **[https://discord.gg/Ws3ENJf](https://discord.gg/Ws3ENJf)
+
+**Medium **[https://medium.com/@cryptomeetup](https://medium.com/@cryptomeetup)
+
+**Reddit **[https://www.reddit.com/user/cryptomeetup](https://www.reddit.com/user/cryptomeetup)
+
+**Twitter **[https://twitter.com/EOSCryptomeetup](https://twitter.com/EOSCryptomeetup)
+
+**Instagram** [https://www.instagram.com/cryptomeetup.io/](https://www.instagram.com/cryptomeetup.io/)
+
+![Wechat](https://i.loli.net/2018/11/04/5bde3cab7b4d1.png)
+
+（扫码备注：CMU众筹进众筹微信群）
