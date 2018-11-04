@@ -13,9 +13,10 @@
     "website": "https://dapp.pub/tokens/?token=PUB",
     "github": " github.com/Dappub",
     "email": null,
-    "tg": null
+    "tg": null,
+    "totalsupply": null
   },
-  "incubation": false,
+  "incubation": null,
   "dex": true,
   "contract_exchange": true
 }

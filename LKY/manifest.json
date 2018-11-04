@@ -13,9 +13,10 @@
     "website": "https://www.luckywith.me/luckycoin ",
     "github": "https://github.com/LuckyPlaza/LuckyPlaza",
     "email": null,
-    "tg": null
+    "tg": null,
+    "totalsupply": null
   },
-  "incubation": false,
+  "incubation": null,
   "dex": true,
   "contract_exchange": false
 }

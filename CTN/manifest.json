@@ -13,9 +13,10 @@
     "website": "https://www.gg2000.com/",
     "github": null,
     "email": null,
-    "tg": null
+    "tg": null,
+    "totalsupply": null
   },
-  "incubation": false,
+  "incubation": null,
   "dex": true,
   "contract_exchange": true
 }
