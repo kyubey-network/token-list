@@ -109,13 +109,13 @@ KBY是Kyubey的平台币，通过分布式班科协议标准发行。KBY通证�
 
 ###5.2价格函数
 
-![](https://i.loli.net/2018/11/01/5bdb06784b81b.png)
+![](/token_assets/KBY/images/KBY_2.png) 
 
 图中（供应量-合约余额,来源[https://kyubey.network/Token/KBY/curve](https://kyubey.network/Token/KBY/curve)）
 
 ###5.3基金分配
 
-![](https://i.loli.net/2018/11/04/5bde414344e47.png)
+![](/token_assets/KBY/images/KBY_3.zh.png) 
 
 
 **6.路线图**
