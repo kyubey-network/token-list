@@ -77,7 +77,7 @@ IBO班科协议标准在其智能合约的基础设施中内置了可兑换性�
 Kyubey实验室是一个属于开发者的创意吧，可以尽情展示创意、应用灵感以及其它有趣的想法。Kyubey实验室将通过技术咨询及支持、众筹、小区资源以及其它各种方式帮助并且支持小区开发者。
 
 特别是Kyubey实验室将会为公众提供一个智能合约仓库。仓库将提供一些被标记及被专业机构审计过的智能合约。小区可以通过使用这些合约轻松创作自己的产品。
-![](https://i.loli.net/2018/11/03/5bdd8c9c410b0.png)
+![img](/token_assets/KBY/images/KBY_1_EN.png)
   
 
 ###4.2Kyubey去中心化交易所
@@ -117,36 +117,55 @@ KBY是Kyubey的平台币，通过分布式班科协议标准发行。KBY通证�
 
 ![](https://i.loli.net/2018/11/04/5bde414344e47.png)
 
+
 **6.路线图**
 ---
 ---
-提出分布式班科协议通证发行标准
+*  提出分布式班科协议通证发行标准
 
-KBY通证发行第一阶段
+*  KBY通证发行第一阶段
 
-Kyubey场外交易所上线
+*  Kyubey场外交易所上线
 
-* P2P交易功能（免手续费）
+  * P2P交易功能（免手续费）
 
-* 与智能合约交互（基于班科协议）
+  * 与智能合约交互（基于班科协议）
 
-Kyubey实验室上线
+*  Kyubey实验室上线
 
-提交创意
+*  提交创意
 
-票选优秀创意进行孵化
+*  票选优秀创意进行孵化
 
-应用项目在Kyubey网站众筹
+*  应用项目在Kyubey网站众筹
 
-* 项目代币空投给KBY持有者
+  * 项目代币空投给KBY持有者
 
-* 分红给KBY持有者
+  * 分红给KBY持有者
 
-Kyubey孵化器完成
+*  Kyubey孵化器完成
 
-* 智能合约仓库上线
+  * 智能合约仓库上线
 
-* 技术支持
+  * 技术支持
 
-* 通证经济模型设计咨询
+  * 通证经济模型设计咨询
 
+##7.  联系方式
+    
+
+###**邮件地址:**
+
+**Inquiries@kyubey.network**
+
+###**Medium:**
+
+[Meium 链接](https://medium.com/@kyubeynetwork/)
+
+###**Kyubey Telegram 小组:**
+
+[Telegram Group 链接](https://t.me/Kyubey_Network)
+
+###**Kyubey Telegram 频道:**
+
+[Telegram Channel 链接](https://t.me/Kyubey\_Network\_Announcement)
