@@ -111,7 +111,7 @@ Kyubey lab is a genius bar for developers to gather together and show their crea
 
 What should be especially mentioned  is that  Kyubey lab will offer a smart contract library to the public. The library will collect most of smart contracts which have been tagged and code reviewed by our professtional audit team. The community can use the contracts to create their products easily.
 
-         ![img](/token_assets/KBY/images/KBY_1_EN.png)
+![img](/token_assets/KBY/images/KBY_1_EN.png)
    
 
 
@@ -156,13 +156,13 @@ KBY is the token of Kyubey Network that issued by Kyubey Network’s DAIBO proto
 
 ###**5.2KBY’s price function**
 
-       ![](/token_assets/KBY/images/KBY_2.png)      
+![](/token_assets/KBY/images/KBY_2.png)      
 
 (sources: [https://kyubey.network/Token/KBY/curve](https://kyubey.network/Token/KBY/curve))
 
 ###**5.3Fund Allocation**
 
-       ![](/token_assets/KBY/images/KBY_3_en.png)       
+![](/token_assets/KBY/images/KBY_3_en.png)       
   
 
 ##6.Roadmap
