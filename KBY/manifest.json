@@ -3,7 +3,7 @@
   "owners": [
     "root"
   ],
-  "priority": 0,
+  "priority": 100,
   "basic": {
     "protocol": "daibo",
     "contract": {
