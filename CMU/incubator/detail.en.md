@@ -13,7 +13,7 @@ Although this economic is unsustainable for any single game, but as a gameplay t
 
 We hope we can combine them together to create a sustainable gaming model.
 
- ![](https://i.loli.net/2018/11/01/5bdb01ed569f0.png)
+![](/token_assets/CMU/images/CMU_1.png)
 
 ##**Cryptomeetup Introduction**：
 ------
@@ -71,7 +71,7 @@ The cryptomeetup team will launch its 2nd test with more gaming features, such a
 
 So far, we only release the country token and will release the continent token by the balance of smart contract:
 
-![](https://i.loli.net/2018/11/01/5bdb02864b6f7.png)
+![](/token_assets/CMU/images/CMU_2.en.png)
 
 
 ##Follow us

@@ -23,7 +23,7 @@
 
 **我们希望能够将二者结合，创作出更加可持续性发展的游戏模式。**
 
-![Cryptomeetup](https://i.loli.net/2018/11/01/5bdb01ed569f0.png)
+![](/token_assets/CMU/images/CMU_1.png)
 
 **币聚简介：**
 ---
@@ -83,7 +83,7 @@ Cryptomeetup致力于构建一个完全去中心化的自治系统，CMU 通证�
 
 截止目前的测试中，我们仅提供了国家层级的土地，在未来会根据智能合约余额来逐步释放各大洲。
 
-![](https://i.loli.net/2018/11/04/5bde3b30d59b9.png)
+![](/token_assets/CMU/images/CMU_2.zh.png)
 
 **关注我们**
 ---
