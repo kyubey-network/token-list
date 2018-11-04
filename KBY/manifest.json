@@ -16,7 +16,10 @@
     "tg": null,
     "totalsupply": null
   },
-  "incubation": null,
+  "incubation": {
+    "raisedtarget": 20000.000000000000000000000000,
+    "deadline": "2018-9-30T00:00:00+00:00"
+  },
   "dex": true,
   "contract_exchange": false
 }
