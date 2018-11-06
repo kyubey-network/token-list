@@ -111,7 +111,7 @@ Kyubey lab is a genius bar for developers to gather together and show their crea
 
 What should be especially mentioned  is that  Kyubey lab will offer a smart contract library to the public. The library will collect most of smart contracts which have been tagged and code reviewed by our professtional audit team. The community can use the contracts to create their products easily.
 
-![img](/token_assets/KBY/images/KBY_1_EN.png)
+![img](/token_assets/KBY/images/1.en.png)
    
 
 
