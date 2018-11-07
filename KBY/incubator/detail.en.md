@@ -3,7 +3,7 @@
 
 ======================
 
-Designed to improve the success of decentralized applications in the open source community and to aid in protecting the rights of the project owners and developers, Kyubey Network proposes a DAIBO protocol for DApps to issue smart tokens and provides an integrated incubator service which includes, but is not limited to, project setting up, technical consultants, crowdfunding,  token exchange, DAC system, as well as providing developer tools for aiding in automatic package deployment.
+Designed to improve the success of decentralized applications in the open source community and to aid in protecting the rights of the project owners and developers, Kyubey Network proposes a DAIBO protocol for DApps to issue smart tokens and provides an integrated incubator service which includes, but is not limited to, project setting up, technical consulting, crowdfunding,  token exchange, DAC system, as well as providing developer tools for aiding in automatic package deployment.
 
   
 
@@ -32,7 +32,7 @@ Also, the top 10% of tokens make up 95% of the entire token market cap and repre
 
 --------------------------------------------------------------------------------
 
-Bancor protocol has in-build convertibility within its smart contract infrastructure thus provides liquidity to small-scale tokens. If a new token issued from an IBO event, most of the raised fund will be sent to the smart contract directly. It means that the new token’s value is backed by the smart contract’s balance.
+Bancor protocol has in-build convertibility within its smart contract infrastructure thus provides liquidity to small-scale tokens. If a new token issued from an IBO event, the raised fund will be sent to the smart contract directly. It means that the new token’s value is backed by the smart contract’s balance.
 
   
 
@@ -111,7 +111,7 @@ Kyubey lab is a genius bar for developers to gather together and show their crea
 
 What should be especially mentioned  is that  Kyubey lab will offer a smart contract library to the public. The library will collect most of smart contracts which have been tagged and code reviewed by our professtional audit team. The community can use the contracts to create their products easily.
 
-![img](/token_assets/KBY/images/KBY_1_EN.png)
+![img](/token_assets/KBY/images/1.en.png)
    
 
 
@@ -198,7 +198,7 @@ KBY is the token of Kyubey Network that issued by Kyubey Network’s DAIBO proto
 *   DApp Projects fundraising on Kyubey.Network
     
 
-  DApp Token airdrop to KBY token holders
+  DApp Token airdrops to KBY token holders
 
   Dividend distribution to KBY token holders 
 

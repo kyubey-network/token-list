@@ -1,10 +1,12 @@
 [
     {
-        "title": "Test 1",
-        "content": "test1.en.md"
+        "title": "Test 1 update",
+        "content": "test1.en.md",
+        "time": "2018-11-05"
     },
     {
         "title": "Test 2",
-        "content": "test2.en.md"
+        "content": "test2.en.md",
+        "time": "2018-11-05"
     }
 ]
