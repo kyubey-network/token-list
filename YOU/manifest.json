@@ -5,21 +5,25 @@
   ],
   "priority": 0,
   "basic": {
-    "protocol": null,
+    "protocol": "bancor",
     "contract": {
       "transfer": "youbaoyoubao",
       "pricing": "youbaoyoubao"
     },
-    "website": "https://youbao.io",
+    "website": null,
     "github": null,
     "email": null,
     "tg": null,
     "total_supply": null,
-    "curve_arguments": [],
-    "price_table": null,
-    "price_scope": null
+    "curve_arguments": [
+      10000000.0,
+      2000.0,
+      0.2
+    ],
+    "price_table": "bancor",
+    "price_scope": "youbaoyoubao"
   },
   "incubation": null,
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }

@@ -7,19 +7,19 @@
   "basic": {
     "protocol": null,
     "contract": {
-      "transfer": "publytoken11",
-      "pricing": "publytoken11"
+      "transfer": "tokendapppub",
+      "pricing": "tokendapppub"
     },
-    "website": "https://www.publyto.io/",
-    "github": null,
+    "website": "https://dapp.pub/tokens/?token=PUB",
+    "github": " github.com/Dappub",
     "email": null,
     "tg": null,
     "total_supply": null,
     "curve_arguments": [],
-    "price_table": null,
-    "price_scope": null
+    "price_table": "games",
+    "price_scope": "PUB"
   },
   "incubation": null,
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }

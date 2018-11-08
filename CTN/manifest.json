@@ -10,7 +10,7 @@
       "transfer": "dacincubator",
       "pricing": "dacincubator"
     },
-    "website": "http://crazytown.io",
+    "website": "https://www.gg2000.com/",
     "github": null,
     "email": null,
     "tg": null,
@@ -21,5 +21,5 @@
   },
   "incubation": null,
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }
