@@ -1,14 +1,15 @@
 {
-  "id": "EDNA",
-  "owners": [
-    "root"
-  ],
-  "priority": 0,
-  "basic": {
-    "protocol": null,
-    "contract": {
-      "transfer": "ednazztokens",
-      "pricing": "ednazztokens"
+    "id": "EDNA",
+    "owners": [
+        "root"
+    ],
+    "priority": 0,
+    "basic": {
+        "protocol": null,
+        "contract": {
+            "transfer": "ednazztokens",
+            "pricing": "ednazztokens"
+        }
     },
     "website": "https://edna.life/",
     "github": null,
@@ -17,9 +18,8 @@
     "total_supply": null,
     "curve_arguments": [],
     "price_table": null,
-    "price_scope": null
-  },
-  "incubation": null,
-  "dex": true,
-  "contract_exchange": false
+    "price_scope": null,
+    "incubation": null,
+    "dex": true,
+    "contract_exchange": false
 }

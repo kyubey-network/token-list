@@ -1,25 +1,25 @@
 {
-  "id": "EGT",
-  "owners": [
-    "root"
-  ],
-  "priority": 0,
-  "basic": {
-    "protocol": null,
-    "contract": {
-      "transfer": "eosiotokener",
-      "pricing": "eosiotokener"
+    "id": "EGT",
+    "owners": [
+        "root"
+    ],
+    "priority": 0,
+    "basic": {
+        "protocol": null,
+        "contract": {
+            "transfer": "eosiotokener",
+            "pricing": "eosiotokener"
+        }
     },
-    "website": null,
+    "website": "http://bj.eosgametoken.com",
     "github": null,
     "email": null,
     "tg": null,
     "total_supply": null,
     "curve_arguments": [],
     "price_table": null,
-    "price_scope": null
-  },
-  "incubation": null,
-  "dex": true,
-  "contract_exchange": false
+    "price_scope": null,
+    "incubation": null,
+    "dex": true,
+    "contract_exchange": false
 }

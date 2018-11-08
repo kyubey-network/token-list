@@ -1,0 +1,1 @@
+EOSeven is the world's fairest and secure gaming platform based on the EOS blockchain.

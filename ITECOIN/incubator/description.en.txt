@@ -1,1 +1,1 @@
-一款基於EOS鏈的競猜遊戲。
+ITECOIN is a betting game based on EOS.

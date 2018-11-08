@@ -1,1 +1,1 @@
-EOSNTS token是EOS 90社区推出的内容媒体平台的加密数字资产。
+EOSNTS token is the encrypted digital asset of the content media platform released by the EOS 90 community.

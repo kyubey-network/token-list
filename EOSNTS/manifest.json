@@ -1,14 +1,15 @@
 {
-  "id": "EOSNTS",
-  "owners": [
-    "root"
-  ],
-  "priority": 0,
-  "basic": {
-    "protocol": null,
-    "contract": {
-      "transfer": "eosninetiess",
-      "pricing": "eosninetiess"
+    "id": "EOSNTS",
+    "owners": [
+        "root"
+    ],
+    "priority": 0,
+    "basic": {
+        "protocol": null,
+        "contract": {
+            "transfer": "eosninetiess",
+            "pricing": "eosninetiess"
+        }
     },
     "website": "https://www.eos90s.io/",
     "github": null,
@@ -17,9 +18,8 @@
     "total_supply": null,
     "curve_arguments": [],
     "price_table": null,
-    "price_scope": null
-  },
-  "incubation": null,
-  "dex": true,
-  "contract_exchange": false
+    "price_scope": null,
+    "incubation": null,
+    "dex": true,
+    "contract_exchange": false
 }

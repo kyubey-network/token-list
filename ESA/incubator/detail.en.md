@@ -1,0 +1,1 @@
+A IBO platform for EOS game, everyone can be a shareholder. For a good beginning and a perfect ending.

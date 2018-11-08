@@ -1,14 +1,15 @@
 {
-  "id": "SEVEN",
-  "owners": [
-    "root"
-  ],
-  "priority": 0,
-  "basic": {
-    "protocol": null,
-    "contract": {
-      "transfer": "xxxsevensxxx",
-      "pricing": "xxxsevensxxx"
+    "id": "SEVEN",
+    "owners": [
+        "root"
+    ],
+    "priority": 0,
+    "basic": {
+        "protocol": null,
+        "contract": {
+            "transfer": "xxxsevensxxx",
+            "pricing": "xxxsevensxxx"
+        }
     },
     "website": "https://www.se7ens.io/",
     "github": null,
@@ -17,9 +18,8 @@
     "total_supply": null,
     "curve_arguments": [],
     "price_table": null,
-    "price_scope": null
-  },
-  "incubation": null,
-  "dex": true,
-  "contract_exchange": false
+    "price_scope": null,
+    "incubation": null,
+    "dex": true,
+    "contract_exchange": false
 }

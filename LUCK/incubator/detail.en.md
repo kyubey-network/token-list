@@ -1,1 +1,1 @@
-幸运链是全球首款基于EOS协议开发的去中心化市场预测平台，你可以在幸运链预测任何事件（足球，世界杯，竞选等）的结果，我们通过区块链验证结果，没有人可以作弊。
+Luck Chain is the world's first decentralized market forecasting platform based on the EOS protocol. You can predict the results of any event (football, World Cup, campaign, etc.) in the LuckChain. We verify the results through blockchain. No one can cheat.

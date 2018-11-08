@@ -1,14 +1,15 @@
 {
-  "id": "ITECOIN",
-  "owners": [
-    "root"
-  ],
-  "priority": 0,
-  "basic": {
-    "protocol": null,
-    "contract": {
-      "transfer": "itecointoken",
-      "pricing": "itecointoken"
+    "id": "ITECOIN",
+    "owners": [
+        "root"
+    ],
+    "priority": 0,
+    "basic": {
+        "protocol": null,
+        "contract": {
+            "transfer": "itecointoken",
+            "pricing": "itecointoken"
+        }
     },
     "website": "https://dice.ite.zone/",
     "github": null,
@@ -17,9 +18,8 @@
     "total_supply": null,
     "curve_arguments": [],
     "price_table": null,
-    "price_scope": null
-  },
-  "incubation": null,
-  "dex": true,
-  "contract_exchange": false
+    "price_scope": null,
+    "incubation": null,
+    "dex": true,
+    "contract_exchange": false
 }

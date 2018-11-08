@@ -1,0 +1,1 @@
+MyEosVegas is a fully trusted and rewarding betting ecosystem based on EOS. It provides a real-time game supported by trusted smart contract. MEV is a smart contract-supported ecosystem where everyone can become the owner of the EOS online casino and share the profits from its operations.
