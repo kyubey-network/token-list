@@ -9,16 +9,16 @@
         "contract": {
             "transfer": "eosiochaince",
             "pricing": "eosiochaince"
-        }
+        },
+        "website": "https://chaince.com/",
+        "github": null,
+        "email": null,
+        "tg": null,
+        "total_supply": null,
+        "curve_arguments": [],
+        "price_table": null,
+        "price_scope": null
     },
-    "website": "https://chaince.com/",
-    "github": null,
-    "email": null,
-    "tg": null,
-    "total_supply": null,
-    "curve_arguments": [],
-    "price_table": null,
-    "price_scope": null,
     "incubation": null,
     "dex": true,
     "contract_exchange": false

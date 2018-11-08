@@ -7,18 +7,18 @@
     "basic": {
         "protocol": null,
         "contract": {
-            "transfer": "parslseed123",
-            "pricing": "parslseed123"
-        }
+            "transfer": "",
+            "pricing": ""
+        },
+        "website": "https://www.parsl.co/",
+        "github": null,
+        "email": null,
+        "tg": null,
+        "total_supply": null,
+        "curve_arguments": [],
+        "price_table": null,
+        "price_scope": null
     },
-    "website": "https://www.parsl.co/",
-    "github": null,
-    "email": null,
-    "tg": null,
-    "total_supply": null,
-    "curve_arguments": [],
-    "price_table": null,
-    "price_scope": null,
     "incubation": null,
     "dex": true,
     "contract_exchange": false

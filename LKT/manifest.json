@@ -9,16 +9,16 @@
         "contract": {
             "transfer": "chyyshayysha",
             "pricing": "chyyshayysha"
-        }
+        },
+        "website": "https://www.luckywith.me/luckycoin",
+        "github": null,
+        "email": null,
+        "tg": null,
+        "total_supply": null,
+        "curve_arguments": [],
+        "price_table": null,
+        "price_scope": null
     },
-    "website": "https://www.luckywith.me/luckycoin",
-    "github": null,
-    "email": null,
-    "tg": null,
-    "total_supply": null,
-    "curve_arguments": [],
-    "price_table": null,
-    "price_scope": null,
     "incubation": null,
     "dex": true,
     "contract_exchange": false
