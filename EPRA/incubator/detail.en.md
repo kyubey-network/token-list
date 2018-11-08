@@ -1,1 +1,1 @@
-建设一个透明的数字广告数据生态平台
+Build a transparent digital advertising data ecosystem platform.

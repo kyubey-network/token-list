@@ -1,1 +1,1 @@
-Peso Economy--在委内瑞拉和拉丁美洲地区的一个现代经济计划。
+Peso Economy-- a modern economic plan in Venezuela and Latin America.

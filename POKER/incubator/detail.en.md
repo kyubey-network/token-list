@@ -1,0 +1,1 @@
+EOS Poker is the first ever decentralized poker gaming platform on the EOS blockchain. It is provably fair and totally transparent. Blackjack is our first game.

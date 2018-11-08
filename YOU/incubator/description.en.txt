@@ -1,0 +1,1 @@
+Based on Bancor, the pomelo game is on sale, holding pomelo pass certificate as a game partner of the pomelo game.

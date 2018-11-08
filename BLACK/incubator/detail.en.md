@@ -1,1 +1,1 @@
-EOSBLACK是一個用戶參與開發DAPP的平臺。社區成員選出最好的DAPP在平臺上展出。獲得足够票數的DAPP將成功開發。
+EOSBLACK is a platform for users to participate in developing DAPP. Members of the community elect the best DAPP to exhibit on the platform. When DApps receive enough sufficient votes, it will be successfully developed.

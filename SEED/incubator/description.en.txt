@@ -1,0 +1,1 @@
+Parsl is a platform that utilises leading edge technologies to create a supply chain that is efficient, transparent and safe.

@@ -1,1 +1,1 @@
-Atidium是面向个人和企业的支付和预算管理分散应用程序。
+Atidium is a payments and  budget management decentralized application for individuals and businesses.

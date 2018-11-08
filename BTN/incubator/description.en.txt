@@ -1,1 +1,1 @@
-BTN灵感源自The Button的区块链游戏。
+BTN inspired by The Button's block chain games.

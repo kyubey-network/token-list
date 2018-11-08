@@ -1,1 +1,1 @@
-i18n:coin_introduction_TRYBE
+TRYBE is the community's tokens knowledge sharing network. You can educate, learn, or socialize on any of these fields, such as encrypting assets, developing, starting a business, or marketing, and get paid for your contributions.

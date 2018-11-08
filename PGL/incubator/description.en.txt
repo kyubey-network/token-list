@@ -1,1 +1,1 @@
-基于EOS的多玩家实时在线的经济策略游戏。
+The Massive Multiplayer Online Real-Time Economic Strategy powered by EOS.

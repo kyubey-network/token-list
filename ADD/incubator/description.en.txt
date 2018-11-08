@@ -1,2 +1,1 @@
-EOS ADD提供从“互联网+”到“区块链+”转型的数据中枢与应用平台。
-发行总量
+EOS ADD provides data center and application platform for transformation from 'Internet plus 'to 'block chain plus'.

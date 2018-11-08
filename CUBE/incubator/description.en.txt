@@ -1,0 +1,1 @@
+An EOS-based gambling game.

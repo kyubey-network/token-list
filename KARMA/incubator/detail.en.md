@@ -1,1 +1,2 @@
-Karma 是由 Karma 团队发起的初创企业力图变革人与人之间的交互，通过建立一个奖励体系，鼓励人们做好事帮助他人。通过 Karma 应用程序，用户可以将自己的行为发布到该平台，然后收到来自给他们的 Post 好评的用户的 Karma ；用户也可以对其他用户发布的行善行为进行点赞，反对与评论，同时也可以将其在 Karma 发布的内容分享到社交媒体平台。此外，Karma app 内置钱包功能，方便用户接收，发送和存储 Karma 代币。
+Karma is a new start-up company established by Karma team which devoted to change the interactive between human being by set a reward system to encourage people do good deeds and help others.
+With the Karma app, users can publish their behavior to the platform and receive other users feedback for their post. users can also praise, disapprove and comment on the good behaviors of other users,and they can share their contents published in Karma to other social media platform.

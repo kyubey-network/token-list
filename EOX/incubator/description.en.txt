@@ -1,1 +1,1 @@
-EOX是一个去中心化的电子商务平台
+EOX is a decentralized e-commerce platform.

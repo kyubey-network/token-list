@@ -1,0 +1,1 @@
+BOCAI is the token of the EOSDICE game platform which enjoying the following dividend.
