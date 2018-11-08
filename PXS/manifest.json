@@ -7,8 +7,8 @@
   "basic": {
     "protocol": null,
     "contract": {
-      "transfer": "pxstokensapp",
-      "pricing": "pxstokensapp"
+      "transfer": "pxstokensico",
+      "pricing": "pxstokensico"
     },
     "website": "https://cryptopix.app/",
     "github": null,

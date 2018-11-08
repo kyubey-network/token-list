@@ -7,19 +7,19 @@
   "basic": {
     "protocol": null,
     "contract": {
-      "transfer": "eosiotptoken",
-      "pricing": "eosiotptoken"
+      "transfer": "tokendapppub",
+      "pricing": "tokendapppub"
     },
-    "website": "https://www.mytokenpocket.vip",
+    "website": "https://tpdex.io",
     "github": null,
     "email": null,
     "tg": null,
     "total_supply": null,
     "curve_arguments": [],
-    "price_table": null,
-    "price_scope": null
+    "price_table": "games",
+    "price_scope": "TPT"
   },
   "incubation": null,
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }
