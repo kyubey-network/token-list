@@ -1,0 +1,25 @@
+{
+  "id": "POKER",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "eospokercoin",
+      "pricing": "eospokercoin"
+    },
+    "website": "https://eospoker.win/",
+    "github": null,
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [],
+    "price_table": null,
+    "price_scope": null
+  },
+  "incubation": null,
+  "dex": true,
+  "contract_exchange": false
+}

@@ -1,1 +1,1 @@
-用户可以通过贡献自己闲置的算力在Boid上来获得奖励，这些算力可以被分配给学术研究，例如医学研究、气象学、航天航空和机械学习等领域。
+Users will be rewarded on the Boid by contributing their spare HashRate that can be assigned to academic research, such as medical research, meteorology, aerospace and mechanical learning.

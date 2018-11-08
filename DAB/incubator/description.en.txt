@@ -1,1 +1,1 @@
-Dabble是一个创作者可以通过发布短文或表情符号获得奖励的社交媒体平台。帖子可以在未来的书籍或纸质书籍中发布，并被记录在块链上，从而有助于版权保护。通过应用AI广告特定的登录广告框和用户导向，最大化您的广告效率。
+Dabble is a social media platform where creators can get rewards through publishing short articles or emoticons.  Posts can be published in future books or paper books, and are recorded on the block chain, contributing to copyright protection. Maximize your ad efficiency by applying AI ad specific to login ad box and user orientation.

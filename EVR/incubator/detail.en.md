@@ -1,1 +1,1 @@
-EOSVR是基于EOS链的虚拟世界。像头号玩家一样，通过多功能设备交换和构建虚拟对象,人们能够访问虚拟世界，与他人通。EOSVR利用去中心化技术降低了维护成本，提高了用户体验。
+EOSVR is a virtual world based in EOS chain. Like Ready Player One, people are able to access the virtual world, communicate with others, and exchange and build virtual objects together through versatile devices. EOSVR reduces the maintanance cost and enhances user experiences by utilizing the decentralizing technology.

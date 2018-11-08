@@ -1,1 +1,1 @@
-对空中抓取的新方式替代空投的一项测试。
+GenerEOS is a social enterprise block producer candidate whose purpose is to promote and support scalable and extremely reliable block production whilst giving back block rewards to charities.

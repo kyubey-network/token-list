@@ -1,0 +1,1 @@
+Applied certification in circulation in TokenPocket ecosystem.

@@ -1,1 +1,1 @@
-Weos是一个共享平台，它可以在需要的时候提供特殊的、私有的共享，并通过区块链技术进行激励。此外，Weos为您的世界提供了不同程度的分享。
+Weos is a sharing platform that makes sharing special, private where needed, and incentivized through blockchain technology. And, Weos covers sharing to all degrees of openness to your world.

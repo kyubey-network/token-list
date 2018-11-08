@@ -1,0 +1,1 @@
+DEOS Games is a group of game enthusiasts that are eager to create truly fair, fast and decentralized games.

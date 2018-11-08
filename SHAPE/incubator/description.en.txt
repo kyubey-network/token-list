@@ -1,1 +1,1 @@
-shape是基于EOS的一款健身应用。
+Shape is a fitness application based on EOS.

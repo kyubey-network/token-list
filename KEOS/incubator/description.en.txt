@@ -1,0 +1,1 @@
+KEOS is a decentralized autonomous community in Korea, which aims to serve the Korea EOS communities.

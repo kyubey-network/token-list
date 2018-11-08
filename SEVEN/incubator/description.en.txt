@@ -1,1 +1,1 @@
-EOS 互动骰子游戏，发挥优势和增值账户的EOS SE7ENS骰子游戏代币（SEVEN），SE7EN代币通过持有或使用等几种方式使用户受益。
+EOS Interactive Dice Game. Play your odds and grow your bank of EOS Se7ens Dice Game tokens (SEVEN). SE7EN Tokens benefits the users in few ways, either by holding the tokens or using them.
