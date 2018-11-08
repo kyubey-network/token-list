@@ -1,1 +1,1 @@
-EOSDAC是致力於成為一個不斷發展的分散式自治社區為全球EOS社區提供服務的領先EOS.IO區塊製作商。通過EOS軟體，使社區成為合作社的一種革命性方式成為可能。發展援助委員會由其代幣持有者和董事會成員控制運行。
+EOSDAC is a leading producer of eos.io blocks dedicated to serving the global EOS community as a growing decentralized autonomous community. Through EOS software, it is possible to make communities a revolutionary way for cooperatives. The development assistance committee is run by its token holders and board members.

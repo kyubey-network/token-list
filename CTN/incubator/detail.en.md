@@ -1,1 +1,1 @@
-The Crazy town is a much more entertaining game based on EOS, and you can make money happily.
+Crazy Town provides the most multiplayer online chess and card games on EOS, and has won the recognition of the majority of players on the first day of the TP wallet's launch. At present, the game includes more than ten popular games such as Qiangzhuangniuniu,Fight,Zhajinhua,Texas Holdem and Shuiguoji,and more games are opening up in succession.

@@ -1,4 +1,1 @@
-
-CryptoPIX is a game focussing on creating pixel art together. Every day new creations can be made to win a decentralized voting round!
-
-Collaborate to create art or make a statement. All contributors of winning submissions receive a pro rata share of the won tokens, which can be sold for real money or used to paint faster in the game.
+CryptoPIX is a competitive cooperative online multiplayer drawing game. The game features a canvas of 1000x1000 pixels. Every player gets to paint any arbitrary pixel on this canvas. The player gets a new pixel to paint once every predetermined interval. The length of this interval is determined by the amount of game tokens the user has. The more tokens the user holds, the shorter the intervals will be. Users will be able to cooperate with a community (or create their own) to create whatever drawings they wish to make. Every 24 hours an art competition will take place within the game. In this competition the players get to vote on the best drawing made during that day. The winners of this competition receive (PXS) game tokens.

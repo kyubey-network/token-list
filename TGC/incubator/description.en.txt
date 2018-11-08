@@ -1,0 +1,1 @@
+EOSTiger is a classic entertainment platform based on the EOS.IO blockchain.It is a collection of classic games with different senses, such as slot machines, Texas hold 'em, roulette, and blackjack.

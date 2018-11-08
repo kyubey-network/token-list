@@ -1,0 +1,1 @@
+EOS Lite - Manage EOS assets directly through the browsers .

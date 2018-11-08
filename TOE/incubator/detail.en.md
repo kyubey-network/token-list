@@ -1,1 +1,1 @@
-TOE社会网络的基本理念是将核心的社会价值观与网络创造的原始愿景相结合。自由、平等、社会公共治理和多样性等概念是多元化社会网络生态系统的健康组成部分。
+The underlying philosophy of the social network of TOE is to combine core social values with the original vision of the creation of the internet. The concepts of freedom, equality, social public governance and diversity are the healthy components of a diversified social networking ecosystem.

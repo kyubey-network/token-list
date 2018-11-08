@@ -1,0 +1,1 @@
+BET24 is a betting game platform run on EOS network, aiming to providing a transparent, fair and extremely amusing environment to global users.

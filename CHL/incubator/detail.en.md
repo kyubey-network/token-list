@@ -1,1 +1,1 @@
-CHALLENGE的任务是利用区块链技术制作DAPP，通过使用Token经济和智能合约技术的任务游戏化来影响人们参与积极行为。他们首次亮相的DAPP是CHALLENGE DAPP。它的目的是激励和奖励玩家在获得大量采用的同时锻炼和保持健康。
+The task of CHALLENGE is to use block chain technology to make DAPP, and to influence people to participate in active behavior through the use of token economy and intelligent contract technology. Their first appearance of DAPP is CHALLENGE DAPP. Its purpose is to motivate and reward players to exercise and keep healthy while using it frequently.

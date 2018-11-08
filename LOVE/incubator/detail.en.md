@@ -1,0 +1,1 @@
+A fair and open poker platform based on decentralized blockchain.

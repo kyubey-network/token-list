@@ -1,1 +1,1 @@
-EOCAT是一个Block Explorer应用程序，它使得管理EOS帐户变得容易。使用EOCAT，您可以检查与EOS帐户相关的所有信息同时还能一触即得的空投。
+EOCAT is a Block Explorer app that makes it easy to manage EOS account. With EOCAT, you can check all the information related to EOS accounts and also receive the airdrop with one touch.

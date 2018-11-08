@@ -1,0 +1,1 @@
+Castle Wars is a multi-player online strategy role playing game based on EOS block chain.
