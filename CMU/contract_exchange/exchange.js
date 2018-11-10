@@ -1,5 +1,5 @@
 function buy() {
-    var contract_account = 'your_contract_account';
+    var contract_account = 'cryptomeetup';
     var amount = $('#amount').val();
     // You can use the variable: account, requiredFields in this script
     eos.contract('eosio.token', { requiredFields }).then(contract => {
