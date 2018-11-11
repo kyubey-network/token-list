@@ -1,5 +1,5 @@
 function buy() {
-    var contract_account = 'cryptomeetup';
+    var contract_account = 'ydappiotoken';
     var amount = $('#amount').val();
     // You can use the variable: account, requiredFields in this script
     eos.contract('eosio.token', { requiredFields }).then(contract => {
@@ -19,7 +19,7 @@ function sell() {
         return contract.transfer(
             account.name, 
             contract_account, 
-            $('#amount').val().toFixed(4) + ' CMU', 
+            $('#amount').val().toFixed(4) + ' YDAPP', 
             `sell`, 
             { 
                 authorization: [`${account.name}@${account.authority}`] 
