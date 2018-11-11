@@ -1,4 +1,4 @@
-# Cryptomeetup Community Updates #2:
+
 
 ![](/token_assets/CMU/images/update02/01.en.jpeg)
 
