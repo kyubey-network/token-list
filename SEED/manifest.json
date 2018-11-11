@@ -7,8 +7,8 @@
   "basic": {
     "protocol": null,
     "contract": {
-      "transfer": "",
-      "pricing": ""
+      "transfer": "parslseed123",
+      "pricing": "parslseed123"
     },
     "website": "https://www.parsl.co/",
     "github": null,
