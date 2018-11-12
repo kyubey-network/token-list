@@ -1,9 +1,7 @@
 function getCurrentBuyPrice(rows) {
-    var supply = parseFloat(rows[0].supply.split(' ')[0]);
-    return (supply  * 1e-10);
+    return 0.0004;
 }
 
 function getCurrentSellPrice(rows) {
-    var supply = parseFloat(rows[0].supply.split(' ')[0]);
-      return (supply * 1e-10);
+    return 0.0004;
 }
