@@ -22,9 +22,9 @@
     "price_scope": null
   },
   "incubation": {
-    "goal": 1000.000000000000000000000000,
-    "deadline": "2018-11-20T20:00:00+00:00",
-    "begin_time": "2018-10-1T00:00:00+00:00"
+    "goal": 2000.0000,
+    "deadline": "2018-11-14T20:00:00+00:00",
+    "begin_time": "2018-11-13T20:00:00+00:00"
   },
   "dex": true,
   "contract_exchange": true
