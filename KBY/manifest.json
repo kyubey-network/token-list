@@ -23,9 +23,9 @@
   },
   "incubation": {
     "goal": 20000.000000000000000000000000,
-    "deadline": "2018-9-30T00:00:00+00:00",
+    "deadline": "2018-10-31T00:00:00+00:00",
     "begin_time": "2018-10-1T00:00:00+00:00"
   },
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }
