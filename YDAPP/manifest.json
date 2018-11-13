@@ -11,21 +11,21 @@
       "pricing": "dacincubator"
     },
     "website": "https://www.ydapp.io/",
-    "github": null,
+    "github": "https://github.com/ydappio",
     "email": null,
     "tg": null,
-    "total_supply": 180000000,
+    "total_supply": 100000000,
     "curve_arguments": [
       0.00000005
     ],
-    "price_table": null,
-    "price_scope": null
+    "price_table": "global",
+    "price_scope": "ydappiotoken"
   },
   "incubation": {
-    "goal": 1000.000000000000000000000000,
-    "deadline": "2018-11-20T20:00:00+00:00",
-    "begin_time": "2018-10-1T00:00:00+00:00"
+    "goal": 2000.0000,
+    "deadline": "2018-11-14T20:00:00+00:00",
+    "begin_time": "2018-11-13T20:00:00+00:00"
   },
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }

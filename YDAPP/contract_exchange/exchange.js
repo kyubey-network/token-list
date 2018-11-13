@@ -13,16 +13,3 @@ function buy() {
             });
     })
 }
-
-function sell() {
-    eos.contract(contract_account, { requiredFields }).then(contract => {
-        return contract.transfer(
-            account.name, 
-            contract_account, 
-            $('#amount').val().toFixed(4) + ' YDAPP', 
-            `sell`, 
-            { 
-                authorization: [`${account.name}@${account.authority}`] 
-            });
-    })
-}
