@@ -1,12 +1,12 @@
 function buy() {
     var contract_account = 'dacincubator';
-    var amount = $('#amount').val();
+    var amount = $('#buyAmount').val();
     // You can use the variable: account, requiredFields in this script
     eos.contract('eosio.token', { requiredFields }).then(contract => {
         return contract.transfer(
             account.name, 
             contract_account, 
-            $('#amount').val().toFixed(4) + ' EOS', 
+            parseFloat($('#buyAmount').val()).toFixed(4) + ' EOS', 
             `buy`, 
             { 
                 authorization: [`${account.name}@${account.authority}`] 
@@ -19,7 +19,7 @@ function sell() {
         return contract.transfer(
             account.name, 
             contract_account, 
-            $('#amount').val().toFixed(4) + ' CMU', 
+            parseFloat($('#sellAmount').val()).toFixed(4) + ' CMU', 
             `sell`, 
             { 
                 authorization: [`${account.name}@${account.authority}`] 
