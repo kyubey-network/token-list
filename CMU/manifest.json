@@ -18,8 +18,8 @@
     "curve_arguments": [
       0.00000005
     ],
-    "price_table": null,
-    "price_scope": null
+    "price_table": "market",
+    "price_scope": "dacincubator"
   },
   "incubation": {
     "goal": 10000.000000000000000000000000,
