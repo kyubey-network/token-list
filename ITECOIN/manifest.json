@@ -16,7 +16,7 @@
     "tg": null,
     "total_supply": null,
     "curve_arguments": [],
-    "price_table": null,
+    "price_table": "market",
     "price_scope": null
   },
   "incubation": null,
