@@ -7,7 +7,7 @@
   "basic": {
     "protocol": "daibo",
     "contract": {
-      "transfer": "ydappiotoken",
+      "transfer": "dacincubator",
       "pricing": "dacincubator"
     },
     "website": "https://www.ydapp.io/",
