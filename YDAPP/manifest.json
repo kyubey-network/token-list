@@ -8,7 +8,8 @@
     "protocol": "daibo",
     "contract": {
       "transfer": "dacincubator",
-      "pricing": "dacincubator"
+      "pricing": "dacincubator",
+      "depot": "ydappiotoken"
     },
     "website": "https://www.ydapp.io/",
     "github": "https://github.com/ydappio",
