@@ -8,7 +8,7 @@
     "protocol": "daibo",
     "contract": {
       "transfer": "dacincubator",
-      "pricing": "dacincubator"
+      "pricing": "cryptomeetup"
     },
     "website": "http://www.cryptomeetup.io/#/",
     "github": "https://github.com/crypto-meetup-dev/cryptomeetup-contracts/wiki",
