@@ -1,0 +1,1 @@
+EOS Interactive Dice Game. Play your odds and grow your bank of EOS Se7ens Dice Game tokens (SEVEN). SE7EN Tokens benefits the users in few ways, either by holding the tokens or using them.

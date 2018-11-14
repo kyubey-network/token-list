@@ -1,0 +1,29 @@
+{
+  "id": "PML",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": "bancor",
+    "contract": {
+      "transfer": null,
+      "pricing": null
+    },
+    "website": null,
+    "github": null,
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [
+      2000.0,
+      10000000.0,
+      0.2
+    ],
+    "price_table": null,
+    "price_scope": null
+  },
+  "incubation": null,
+  "dex": false,
+  "contract_exchange": false
+}

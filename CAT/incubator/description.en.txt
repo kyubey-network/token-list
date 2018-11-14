@@ -1,0 +1,1 @@
+EOCAT is a Block Explorer app that makes it easy to manage EOS account. With EOCAT, you can check all the information related to EOS accounts and also receive the airdrop with one touch.

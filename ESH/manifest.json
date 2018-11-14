@@ -1,0 +1,25 @@
+{
+  "id": "ESH",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": null,
+      "pricing": null
+    },
+    "website": null,
+    "github": null,
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [],
+    "price_table": null,
+    "price_scope": null
+  },
+  "incubation": null,
+  "dex": false,
+  "contract_exchange": false
+}

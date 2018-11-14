@@ -1,0 +1,1 @@
+Weos is a sharing platform that makes sharing special, private where needed, and incentivized through blockchain technology. And, Weos covers sharing to all degrees of openness to your world.

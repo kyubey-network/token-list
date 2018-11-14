@@ -1,0 +1,32 @@
+{
+  "id": "YDAPP",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": "daibo",
+    "contract": {
+      "transfer": "dacincubator",
+      "pricing": "dacincubator",
+      "depot": "ydappiotoken"
+    },
+    "website": "https://www.ydapp.io/",
+    "github": "https://github.com/ydappio",
+    "email": null,
+    "tg": null,
+    "total_supply": 100000000,
+    "curve_arguments": [
+      0.00000005
+    ],
+    "price_table": "global",
+    "price_scope": "ydappiotoken"
+  },
+  "incubation": {
+    "goal": 2000.0000,
+    "deadline": "2018-11-20T20:00:00+08:00",
+    "begin_time": "2018-11-13T20:00:00+08:00"
+  },
+  "dex": true,
+  "contract_exchange": true
+}

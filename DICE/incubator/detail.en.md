@@ -1,0 +1,1 @@
+Betdice.one is a completely trustworthy, profit-sharing and fair gaming platform based on EOS blockchain.DICE tokens are issued once Betdice goes live.Brand-new profit-sharing gaming platform.50% of Net Profit is paid out to those who have DICE staked in every hour. Gaming creates a win-win situation for both you and us.

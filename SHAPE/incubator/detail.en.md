@@ -1,0 +1,1 @@
+Shape is a fitness application based on EOS.

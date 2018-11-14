@@ -1,0 +1,1 @@
+Users will be rewarded on the Boid by contributing their spare HashRate that can be assigned to academic research, such as medical research, meteorology, aerospace and mechanical learning.

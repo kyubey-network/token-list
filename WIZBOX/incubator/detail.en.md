@@ -1,0 +1,1 @@
+This is an EOS-based character fighting game developed by the LetltPlay team and inspired by Crypto Cat on Ethereum.

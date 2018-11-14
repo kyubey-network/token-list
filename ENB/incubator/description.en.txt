@@ -1,0 +1,1 @@
+ENB Platform is an integrated service Platform based on EOS Token, including Toker pledge, transaction and integrated financial management.

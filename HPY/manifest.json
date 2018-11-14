@@ -1,0 +1,25 @@
+{
+  "id": "HPY",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "happyeosslot",
+      "pricing": "happyeosslot"
+    },
+    "website": null,
+    "github": null,
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [],
+    "price_table": "exchange_state",
+    "price_scope": "happyeosslot"
+  },
+  "incubation": null,
+  "dex": true,
+  "contract_exchange": true
+}

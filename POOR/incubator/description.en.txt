@@ -1,0 +1,1 @@
+GenerEOS is a social enterprise block producer candidate whose purpose is to promote and support scalable and extremely reliable block production whilst giving back block rewards to charities.

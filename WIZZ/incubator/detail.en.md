@@ -1,0 +1,1 @@
+WIZZ is a multi-functional distributed ecosystem based on EOS. In the future,it will cover many functions such as multi-underlying protocol wallet, message chatting, local shopping, and incentive centers.

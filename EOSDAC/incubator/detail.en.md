@@ -1,0 +1,1 @@
+EOSDAC is a leading producer of eos.io blocks dedicated to serving the global EOS community as a growing decentralized autonomous community. Through EOS software, it is possible to make communities a revolutionary way for cooperatives. The development assistance committee is run by its token holders and board members.

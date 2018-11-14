@@ -1,0 +1,1 @@
+FAID is a first aid collaboration platform for reward. Based on the EOS public chain, Dapp aims to create a transparent database and cooperative platform for first aid popularization in China and worldwide through distributed accounting and smart contract technology of block chain.

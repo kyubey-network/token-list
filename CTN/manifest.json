@@ -1,0 +1,25 @@
+{
+  "id": "CTN",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": "dacincubator",
+      "pricing": "dacincubator"
+    },
+    "website": "https://www.gg2000.com/",
+    "github": null,
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [],
+    "price_table": null,
+    "price_scope": null
+  },
+  "incubation": null,
+  "dex": true,
+  "contract_exchange": true
+}

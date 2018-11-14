@@ -1,0 +1,1 @@
+EOX is a decentralized e-commerce platform.

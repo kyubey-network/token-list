@@ -1,0 +1,31 @@
+{
+  "id": "KBY",
+  "owners": [
+    "root"
+  ],
+  "priority": 100,
+  "basic": {
+    "protocol": "daibo",
+    "contract": {
+      "transfer": "dacincubator",
+      "pricing": "dacincubator"
+    },
+    "website": "https://kyubey.network",
+    "github": "https://github.com/kyubey-network",
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [
+      0.0000000001
+    ],
+    "price_table": "market",
+    "price_scope": "dacincubator"
+  },
+  "incubation": {
+    "goal": 20000.000000000000000000000000,
+    "deadline": "2018-10-02T00:00:00+00:00",
+    "begin_time": "2018-09-30T20:00:00+00:00"
+  },
+  "dex": true,
+  "contract_exchange": true
+}

@@ -1,0 +1,1 @@
+Atidium is a payments and  budget management decentralized application for individuals and businesses.

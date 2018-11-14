@@ -1,0 +1,1 @@
+EOS side chain, realize EOS ecology and ether square ecology interworking.
