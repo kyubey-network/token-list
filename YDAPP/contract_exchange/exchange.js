@@ -1,5 +1,4 @@
 function buy() {
-    var contract_account = 'ydappiotoken';
     var amount = $('#buyAmount').val();
     // You can use the variable: account, requiredFields in this script
     eos.contract('eosio.token', { requiredFields }).then(contract => {
