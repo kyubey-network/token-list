@@ -1,5 +1,4 @@
 function buy(amount) {
-    var contract_account = 'dacincubator';
     // You can use the variable: account, requiredFields in this script
     eos.contract('eosio.token', { requiredFields }).then(contract => {
         return contract.transfer(
