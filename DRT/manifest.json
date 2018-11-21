@@ -1,0 +1,31 @@
+{
+  "id": "DRT",
+  "owners": [
+    "root"
+  ],
+  "priority": 0,
+  "basic": {
+    "protocol": null,
+    "contract": {
+      "transfer": null,
+      "pricing": null
+    },
+    "website": null,
+    "github": "https://github.com/Andoromeda-Foundation/dapp-rosetta",
+    "email": null,
+    "tg": null,
+    "total_supply": null,
+    "curve_arguments": [
+      0.00000005
+    ],
+    "price_table": null,
+    "price_scope": null
+  },
+  "incubation": {
+    "goal": 0,
+    "deadline": "2020-12-30T00:00:00+00:00",
+    "begin_time": "2018-12-30T00:00:00+00:00"
+  },
+  "dex": false,
+  "contract_exchange": false
+}
