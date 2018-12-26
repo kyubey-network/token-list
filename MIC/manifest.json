@@ -28,5 +28,5 @@
     "begin_time" :"2018-01-25T23:59:00+08:00"
   },
   "dex": true,
-  "contract_exchange": false
+  "contract_exchange": true
 }
