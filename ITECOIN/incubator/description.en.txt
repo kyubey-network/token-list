@@ -1,1 +1,0 @@
-ITECOIN is a betting game based on EOS.
