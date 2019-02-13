@@ -10,6 +10,10 @@
       "transfer": "dacincubator",
       "pricing": "dacincubator"
     },
+    "contract_exchange_info": {
+      "buy_memo": "buy",
+      "sell_memo": "sell"
+    },
     "website": "https://kyubey.network",
     "github": "https://github.com/kyubey-network",
     "email": null,

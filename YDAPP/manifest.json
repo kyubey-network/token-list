@@ -11,6 +11,10 @@
       "pricing": "ydappiotoken",
       "depot": "ydappiotoken"
     },
+	"contract_exchange_info": {
+      "buy_memo": "buy",
+      "sell_memo": "sell"
+    },
     "website": "https://www.ydapp.io/",
     "github": "https://github.com/ydappio",
     "email": null,

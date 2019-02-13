@@ -10,6 +10,10 @@
       "transfer": "dacincubator",
       "pricing": "cryptomeetup"
     },
+	"contract_exchange_info": {
+      "buy_memo": "buy",
+      "sell_memo": "sell"
+    },
     "website": "http://www.cryptomeetup.io/#/",
     "github": "https://github.com/crypto-meetup-dev/cryptomeetup-contracts/wiki",
     "email": null,
