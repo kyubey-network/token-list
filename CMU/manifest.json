@@ -8,7 +8,8 @@
     "protocol": "daibo",
     "contract": {
       "transfer": "dacincubator",
-      "pricing": "cryptomeetup"
+      "pricing": "cryptomeetup",
+	  "depot": "cryptomeetup"
     },
 	"contract_exchange_info": {
       "buy_memo": "buy",
