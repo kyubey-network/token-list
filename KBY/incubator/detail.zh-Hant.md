@@ -159,7 +159,7 @@ KBY是Kyubey的平臺幣，通過DAIBO分散式班科協議標準發行。KBY通
 
 ###**Medium:**
 
-[Meium 連結](https://medium.com/@kyubeynetwork/)
+[Medium 連結](https://medium.com/kyubey)
 
 ###**Kyubey Telegram 小組:**
 

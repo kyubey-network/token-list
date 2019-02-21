@@ -161,7 +161,7 @@ KBY是Kyubey的平台币，通过DAIBO分布式班科协议标准发行。KBY通
 
 ###**Medium:**
 
-[Meium 链接](https://medium.com/@kyubeynetwork/)
+[Medium 链接](https://medium.com/kyubey)
 
 ###**Kyubey Telegram 小组:**
 

@@ -225,7 +225,7 @@ KBY is the token of Kyubey Network that issued by Kyubey Network’s DAIBO proto
 
 ###**Medium:**
 
-[Meium Link](https://medium.com/@kyubeynetwork/)
+[Medium Link](https://medium.com/kyubey)
 
 ###**Kyubey Telegram Group:**
 
