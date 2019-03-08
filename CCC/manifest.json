@@ -7,8 +7,8 @@
   "basic": {
     "protocol": null,
     "contract": {
-      "transfer": null,
-      "pricing": null
+      "transfer": "chainbankeos",
+      "pricing": "chainbankeos"
     },
     "website": "http://www.deaso40.com/jmjnbweb/dist/#/",
     "github": null,
